@@ -1,2 +1,4 @@
 test
-developping
+bug-101 fixed
+and
+developping finished
